@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\4d5d7fd52a345983ba93dbecc3835b2588626a7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bd255815270a5d4083c4cf41bde3d5b475493264">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb8349fe3e99e8b07f06644044cd9a408f448e50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\686cfb81f3b2c538ac4a2a44594499b680e48bf3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="28ec536caf8a2bff4fa5651e3e4649182e053dfd">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78c3824c491672a9400b2b070b6f71f9ee496db2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\79bd7869cd4e2f05c9c3431a387b9a828a192eb1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c989e9a79bbce944f72fa228f684d9e153c03c2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\windows00\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\3.1.3\b4ecd87169faeee5abfb6c4793713cc1a14b1c25\realm-annotations-3.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b4ecd87169faeee5abfb6c4793713cc1a14b1c25">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\realm-annotations-3.1.3_a9e3592808f296c90f5f30cf56d39b6e665232fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\2a5d97a657b86941fa619057df60784074358e57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a316ffdd1a0a9df47871bb888c61394ac53fecde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\9738d8b1a1f0aa3efe43a6b2f18fa1d18a3027ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20521e305fe177c2ae2be97733576990cdaa9394\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ANDROIDSDK_FAT32\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_93ce204720aab4f6d105696409f1ef4e857b8d89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\7477f9f16a52578230b516ed65bb68eb6556901d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8bdeae9e0d3800a309c9b50ec1c87c339ba0693\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ANDROIDSDK_FAT32\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_ac0ac9e9ba3253cbda6c2e32d199b798d0203fd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\d901299f5c3d5109a22efd7510b314682eb28423\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db5b5fa2d62e122d1cd6ac0573b7f2e715a94d98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\windows00\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.9\a5aad74623ade11162dd53cdf0645a51b12221a0\rxjava-2.0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a5aad74623ade11162dd53cdf0645a51b12221a0">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.0.9_852c6216d45a3c60347d90292dce3df7c4280270\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\bf920268dd2ebe7e5e04a59edb7ee8e082eba7c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_063c350eec5dffd656d4ac486e242d8933a83606\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\e0c2d35f3c10d6a466036034cf97b2d010dd58b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4f8210732f4ed353bb9627fff6e3d20e69ce2d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\windows00\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\reactive-streams-1.0.0_bc362498317005c03e5b5d163971734993bd2e03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\61c9e954e68c776d8a0465d41c55d9e96cadf701\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87aa478581d0cbc9a3e56789523bf00a791370cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\74a26a34d85996188cb1c38a38d53a80aa03cac0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6cbf3c131886075acce5d4ee1e099d82e64b6ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\f1049c8746c228e266bc345952ff17b2581f4952\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b1b23797120d37e84425dab4fd7d2dc47104cb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\7d7467e8cfa602c82d0f4b6b00fce706028cb728\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99d2a50d39bdadaa3740853a926f37f1c009d98a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\04685e25a7af28fa3e06a6f589d79b4abfca4a2b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7066f3aa3e93500935f72d9afa10e3c708bfb209">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e136075f43b57c5637527dcd337435ca287b9a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\019ee590c00d6f9cdece54f4ee3aa36dfe218fee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5aed3a1a76f4d8a7856734e87d1df168be7ae63d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="24139e2e6e50f96dcc52355837f2160a31d79c19">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b301c225c3da39190e88ea6571591b07b2834eb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\windows00\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.7.0\6edbebdd8868708db718d15c09c4b28037fd487e\okhttp-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.7.0_3ed8ea3990d2c4645d7ed4272fc2fe7afff42a13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\windows00\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.12.0\3742beff8024d0a0073d284b7c5e4cbf73d99b25\okio-1.12.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.12.0_8b750ff535ea158f6cb58f27ac909e53128dda4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\ec080a4117b09677ec7d868b77c8c7af6e2b48b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d1ef8913f06f1b61279d2e662af4c66a3ebc6ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\5722d2299ce9c170d44a8730a014f9589e4be573\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39a69d6f8f4b0bcbfe7e644c167ee4bfb282f75e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\097f3c19540dc8cb9adbd0bf8e69ee366de0b6d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bca213e5ee150063c287fd96085ba02536dbb1d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\66fe3d307e945d7888398ea4c8269639391a58d4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65e9f3082b29cb810e0852cfe8df7717c1fb14e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9bdad1d0948d630ae13e1c31f1d9f6310bb4a68d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CURSODAW\ANDROID\avd\.android\build-cache\f69d1b76c8714264821b28557091227b27023ce6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb305d2ec1f85a4122c5e9d0412c87e20dac20f8">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8047bd0714bb194f0517271b148076ca1ab843e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\windows00\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_7bb4a2a13e251127e037ac5ff6f200d4b8ad4692\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\windows00\.gradle\caches\modules-2\files-2.1\org.nanohttpd\nanohttpd\2.3.1\a8d54d1ca554a77f377eff6bf9e16ca8383c8f6c\nanohttpd-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a8d54d1ca554a77f377eff6bf9e16ca8383c8f6c">
+        <dex dex="C:\Users\windows00\Downloads\Ex_Files_Android_Dev_Mobile_Design\Exercise Files\Ch07\07_03_Finished\app\build\intermediates\transforms\dex\debug\folders\1000\10\nanohttpd-2.3.1_291acc8ad61f2b8ed8e2b8d6c3f27ccda3c9ca6e\classes.dex" />
+    </item>
+
+</items>
